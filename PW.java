@@ -8,8 +8,13 @@ class Pw
       public void m2()
 {
 
-   //// code
+   //// code2
 }
 
+      public void m3()
+{
+
+   //// code3
+}
 
 }
